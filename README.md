@@ -1,2 +1,2 @@
 # faread_training_center
-This Odoo module provides a complete solution for managing a Training Center or Educational Institute. It supports course scheduling,  attendance tracking, and more.
+This Odoo module in version 18 provides a complete solution for managing a Training Center or Educational Institute. It supports course scheduling,  attendance tracking, and more.
